@@ -1,0 +1,39 @@
+.container{
+	background-color: bisque;
+	background-position: center;
+	background-size: cover;
+	
+}
+.col-3 {
+	width: 250px;
+	
+
+}
+h1 {
+	font-family: Roboto ital;
+	margin-left: 50px;
+}
+h3 {
+	font-family: Roboto ital;
+	color: #402fc0;
+}
+p{
+	font-size: 18px;
+}
+li{
+	font-size: 18px;
+}
+img{
+	background-image: url(../img/playing.jpeg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 250px;
+	width: 200px;
+}
+.about-col-10, .col-7{
+	margin-top: 30px;
+	margin-left: 350px;
+	
+
+}

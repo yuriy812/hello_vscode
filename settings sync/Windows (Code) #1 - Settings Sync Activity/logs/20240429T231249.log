@@ -1,0 +1,38 @@
+2024-04-29 23:12:52.521 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2024-04-29 23:12:52.521 [info] Auto Sync is enabled.
+2024-04-29 23:12:52.521 [info] Auto Sync: Suspended until auth token is available.
+2024-04-29 23:12:53.427 [info] Deleting non existing profile from backup /C:/Users/yuriy/AppData/Roaming/Code/User/sync/extensions
+2024-04-29 23:12:53.547 [info] Deleting non existing profile from backup /C:/Users/yuriy/AppData/Roaming/Code/User/sync/globalState
+2024-04-29 23:12:53.649 [info] Deleting non existing profile from backup /C:/Users/yuriy/AppData/Roaming/Code/User/sync/keybindings
+2024-04-29 23:12:53.695 [info] Deleting non existing profile from backup /C:/Users/yuriy/AppData/Roaming/Code/User/sync/profiles
+2024-04-29 23:12:53.770 [info] Deleting non existing profile from backup /C:/Users/yuriy/AppData/Roaming/Code/User/sync/settings
+2024-04-29 23:12:53.770 [info] Deleting non existing profile from backup /C:/Users/yuriy/AppData/Roaming/Code/User/sync/snippets
+2024-04-29 23:12:53.770 [info] Deleting non existing profile from backup /C:/Users/yuriy/AppData/Roaming/Code/User/sync/tasks
+2024-04-29 23:12:54.410 [info] Auto Sync: Triggered by Interval
+2024-04-29 23:12:54.410 [info] Sync started.
+2024-04-29 23:12:54.888 [info] Settings: Last sync resource does not exist locally.
+2024-04-29 23:12:55.297 [info] Settings: No changes found during synchronizing settings.
+2024-04-29 23:12:55.303 [info] Keybindings: Last sync resource does not exist locally.
+2024-04-29 23:12:55.592 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-04-29 23:12:55.610 [info] Snippets: Last sync resource does not exist locally.
+2024-04-29 23:12:55.769 [info] Snippets: No changes found during synchronizing snippets.
+2024-04-29 23:12:55.773 [info] Tasks: Last sync resource does not exist locally.
+2024-04-29 23:12:56.315 [info] Tasks: No changes found during synchronizing tasks.
+2024-04-29 23:12:56.318 [info] GlobalState: Last sync resource does not exist locally.
+2024-04-29 23:12:56.617 [info] GlobalState: No changes found during synchronizing ui state.
+2024-04-29 23:12:56.620 [info] Extensions: Last sync resource does not exist locally.
+2024-04-29 23:12:56.986 [info] Extensions: No changes found during synchronizing extensions.
+2024-04-29 23:12:56.990 [info] Profiles: Last sync resource does not exist locally.
+2024-04-29 23:12:57.167 [info] Profiles: No changes found during synchronizing profiles.
+2024-04-29 23:12:57.175 [info] Sync done. Took 2764ms
+2024-04-29 23:13:38.629 [info] Auto Sync: Triggered by Activity
+2024-04-29 23:13:38.629 [info] Sync started.
+2024-04-29 23:13:38.751 [info] Settings: No changes found during synchronizing settings.
+2024-04-29 23:13:38.759 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-04-29 23:13:38.773 [info] Snippets: No changes found during synchronizing snippets.
+2024-04-29 23:13:38.779 [info] Tasks: No changes found during synchronizing tasks.
+2024-04-29 23:13:38.786 [info] GlobalState: No changes found during synchronizing ui state.
+2024-04-29 23:13:39.455 [info] Extensions: Updated remote extensions. Added: ["streetsidesoftware.code-spell-checker","streetsidesoftware.code-spell-checker-portuguese-brazilian"].
+2024-04-29 23:13:40.053 [info] Extensions: Updated last synchronized extensions.
+2024-04-29 23:13:40.063 [info] Profiles: No changes found during synchronizing profiles.
+2024-04-29 23:13:40.066 [info] Sync done. Took 1437ms

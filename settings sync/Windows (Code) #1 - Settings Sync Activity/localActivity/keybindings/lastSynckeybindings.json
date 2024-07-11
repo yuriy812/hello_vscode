@@ -1,1 +1,0 @@
-{"ref":"f2ef9075-fe93-4f15-a57b-8d43026c4b0c","syncData":{"version":2,"machineId":"751ae827-31bf-4dcd-8afc-d24bac408f59","content":"{\"windows\":\"// Place your key bindings in this file to override the defaults\\n[\\n\\t{\\n\\t\\t\\\"key\\\": \\\"shift+alt+t\\\",\\n\\t\\t\\\"command\\\": \\\"extension.translateText\\\"\\n\\t}\\n]\"}"}}
